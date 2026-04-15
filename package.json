@@ -1,0 +1,8 @@
+{
+  "name": "ascenta-muestra",
+  "private": true,
+  "scripts": {
+    "dev": "npx --yes serve@14 . -l 8765",
+    "start": "npx --yes serve@14 . -l 8765"
+  }
+}
